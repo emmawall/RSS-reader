@@ -10,7 +10,6 @@ using System.Windows.Forms;
 
 namespace RSS_reader
 {
-    //test
 	public partial class FormPodcast : Form
 	{
 		public FormPodcast()
