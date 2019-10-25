@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace RSS_reader
 {
-	public partial class Form1 : Form
+	public partial class FormPodcast : Form
 	{
-		public Form1()
+		public FormPodcast()
 		{
+
 			InitializeComponent();
+		}
+
+		private void textBox1_TextChanged(object sender, EventArgs e)
+		{
+
 		}
 	}
 }
